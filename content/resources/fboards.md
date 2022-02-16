@@ -3,8 +3,13 @@ content_type: resource
 description: This file includes images on status quo,  official master plan, proposed
   alternative, circulation, public space, land use, education typology and housing
   typology.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-307-beijing-urban-design-studio-summer-2006/1b7a62844235d533fa74103205f7ded4_fboards.pdf
+file: /media/courses/11-307-beijing-urban-design-studio-summer-2006/1b7a62844235d533fa74103205f7ded4_fboards.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: fboards.pdf
 uid: 1b7a6284-4235-d533-fa74-103205f7ded4

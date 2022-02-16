@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9f7556ec-28c5-fc6e-bfd6-4ccac544e960
 ---
@@ -55,7 +57,7 @@ Evening School Open House
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Opening of 20th Anniversary Beijing Studio Exhibition  
+Opening of 20{{< sup "th" >}} Anniversary Beijing Studio Exhibition  
   
 Work
 {{< tdclose >}}

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This topic includes design concept and  illustrative sketch plan.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-307-beijing-urban-design-studio-summer-2006/9b9f07b872ee7e5218d048d106f59c4f_assn2.pdf
+file: /media/courses/11-307-beijing-urban-design-studio-summer-2006/9b9f07b872ee7e5218d048d106f59c4f_assn2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn2.pdf
 uid: 9b9f07b8-72ee-7e52-18d0-48d106f59c4f

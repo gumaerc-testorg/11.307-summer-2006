@@ -2,8 +2,13 @@
 content_type: resource
 description: This file inlcudes images on topics innovate, empower, invest, overall
   axonometric, proposed landuse plan and circulation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-307-beijing-urban-design-studio-summer-2006/1a02bbf7ff8426530d8d9418382502a9_eboards.pdf
+file: /media/courses/11-307-beijing-urban-design-studio-summer-2006/1a02bbf7ff8426530d8d9418382502a9_eboards.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: eboards.pdf
 uid: 1a02bbf7-ff84-2653-0d8d-9418382502a9
