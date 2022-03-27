@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e05804bc-efa5-0478-697a-b2f4d40b444a
 resourcetype: Document
 title: cpres.pdf
 uid: f48240ef-594f-48a1-3584-c88cdd55b016

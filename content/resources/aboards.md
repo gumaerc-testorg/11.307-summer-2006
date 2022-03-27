@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e05804bc-efa5-0478-697a-b2f4d40b444a
 resourcetype: Document
 title: aboards.pdf
 uid: 1ccb4c41-eb50-edd8-9468-d55eedd4f230

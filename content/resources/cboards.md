@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e05804bc-efa5-0478-697a-b2f4d40b444a
 resourcetype: Document
 title: cboards.pdf
 uid: ea190186-4e56-85f9-7ca2-abd10d316767

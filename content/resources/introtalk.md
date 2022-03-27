@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 28f5f7ec-53a8-e4bc-29d6-61527240b111
 resourcetype: Document
 title: introtalk.pdf
 uid: ba21e4a7-6903-5f77-b600-c1b295998eca
