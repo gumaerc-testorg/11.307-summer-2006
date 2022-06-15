@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains images used in the course resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
