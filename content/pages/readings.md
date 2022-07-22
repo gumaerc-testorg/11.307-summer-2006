@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains information about additional reading materials
+  regarding the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8c59347d-acfd-27c4-449f-5b622351fd33
 ---

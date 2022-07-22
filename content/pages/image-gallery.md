@@ -1,11 +1,14 @@
 ---
 content_type: page
+description: This section contains images used in the course resources.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: e230c63a-b96e-3ea5-cfec-53a4a0efc3e2
 ---
 
 Images from the studio and the trip to China are presented here. All images are courtesy of Albert Wei and used with permission.
-{{< image-gallery id="e230c63a-b96e-3ea5-cfec-53a4a0efc3e2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-307-beijing-urban-design-studio-summer-2006/" >}}
+{{< image-gallery id="e230c63a-b96e-3ea5-cfec-53a4a0efc3e2_nanogallery2" baseUrl="/courses/11-307-beijing-urban-design-studio-summer-2006/" >}}
 {{< image-gallery-item href="5afad5502a68dd546cb59a244fda0639_1.jpg" data-ngdesc="A monk on a path." text="A monk on a path." >}}
 {{< image-gallery-item href="a32cb4c34db851622e45d07b0f007f0a_2.jpg" data-ngdesc="Monks at work in their temple." text="Monks at work in their temple." >}}
 {{< image-gallery-item href="4686e6503de512ad2ef41990cfa68740_3.jpg" data-ngdesc="The Chinese sky at sunset." text="The Chinese sky at sunset." >}}

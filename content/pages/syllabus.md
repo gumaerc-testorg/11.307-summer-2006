@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains an overview of course description, students and
+  programs.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 28f5f7ec-53a8-e4bc-29d6-61527240b111
 ---
@@ -38,7 +42,7 @@ Other faculty from MIT who have participated over the years include John deMonch
 
 The Beijing Studio is a Joint Program of the MIT School of Architecture and Planning, with participants from both architecture and planning, and the Tsinghua University School of Architecture. Funding is provided by the Paul Sun Fund with additional contributions from the Asian Cultural Council of New York/Geoffrey Yeh Foundation, the MIT China Program, the MIT departments of architecture and planning and Tsinghua University.
 
-Read the text of Professor Jan Wampler's introductory remarks here. ([PDF]({{< baseurl >}}/resources/introtalk))
+Read the text of Professor Jan Wampler's introductory remarks here. ({{% resource_link ba21e4a7-6903-5f77-b600-c1b295998eca "PDF" %}})
 
 Urban Development and Planning in China
 ---------------------------------------
