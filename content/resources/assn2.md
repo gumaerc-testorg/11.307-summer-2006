@@ -5,6 +5,7 @@ file: /courses/11-307-beijing-urban-design-studio-summer-2006/9b9f07b872ee7e5218
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn2.pdf
 uid: 9b9f07b8-72ee-7e52-18d0-48d106f59c4f
 ---
 This topic includes design concept and  illustrative sketch plan.
-

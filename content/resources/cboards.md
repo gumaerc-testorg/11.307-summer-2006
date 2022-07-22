@@ -6,6 +6,7 @@ file: /courses/11-307-beijing-urban-design-studio-summer-2006/ea1901864e5685f97c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cboards.pdf
 uid: ea190186-4e56-85f9-7ca2-abd10d316767
 ---
 This file includes program, phasing, reweave housing, reweave streets and reweave livelihoods.
-
