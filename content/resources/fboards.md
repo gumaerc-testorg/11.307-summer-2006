@@ -4,6 +4,7 @@ description: This file includes images on status quo,  official master plan, pro
   alternative, circulation, public space, land use, education typology and housing
   typology.
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/1b7a62844235d533fa74103205f7ded4_fboards.pdf
+file_size: 4371670
 file_type: application/pdf
 learning_resource_types:
 - Projects
