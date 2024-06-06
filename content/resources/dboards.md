@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/2abcd96d14388d1ce833a8992f3f2e79_dboards.pdf
+file_size: 1541863
 file_type: application/pdf
 learning_resource_types:
 - Projects

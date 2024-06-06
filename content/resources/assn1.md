@@ -3,6 +3,7 @@ content_type: resource
 description: This topic includes circulation and texture of streets, housing and living
   patterns, site map, sections and presentation.
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/7ba817611b449345e8371da04ab0ccbd_assn1.pdf
+file_size: 22249
 file_type: application/pdf
 learning_resource_types:
 - Assignments
