@@ -4,7 +4,7 @@ description: This file includes images on guiding principles, housing options fo
   an economically diverse population, resident economic empowerment, innovative architectural
   preservation, concept of design, land use diagram, circulation diagram and new courtyard
   homes.
-file: /courses/11-307-beijing-urban-design-studio-summer-2006/6ed670a1729e5073b78b84d2c430a053_epres.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/6ed670a1729e5073b78b84d2c430a053_epres.pdf
 file_size: 3317652
 file_type: application/pdf
 learning_resource_types:
