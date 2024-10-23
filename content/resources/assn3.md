@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This topic gives an overview on all the sections in the form.
-file: /courses/11-307-beijing-urban-design-studio-summer-2006/fcabcd420682db2d52ba07d7ca70b965_assn3.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/fcabcd420682db2d52ba07d7ca70b965_assn3.pdf
 file_size: 13626
 file_type: application/pdf
 learning_resource_types:

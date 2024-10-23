@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes rationale, analysis,  principles, strategies, master
   plan, designs and conclusion.
-file: /courses/11-307-beijing-urban-design-studio-summer-2006/033aa77043848f821327df431633e6ba_bpres.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/033aa77043848f821327df431633e6ba_bpres.pdf
 file_size: 10017796
 file_type: application/pdf
 learning_resource_types:
