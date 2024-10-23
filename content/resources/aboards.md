@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-307-beijing-urban-design-studio-summer-2006/1ccb4c41eb50edd89468d55eedd4f230_aboards.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/1ccb4c41eb50edd89468d55eedd4f230_aboards.pdf
 file_size: 786116
 file_type: application/pdf
 learning_resource_types:

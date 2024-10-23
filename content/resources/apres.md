@@ -3,7 +3,7 @@ content_type: resource
 description: This file includes urban-rural threshold, transform urban and rural lifestyles,
   sustainable infrastructure, station as collector and distributor, redefine the axis,
   phasing and renewal, site context, site plan, housing typology and transport station.
-file: /courses/11-307-beijing-urban-design-studio-summer-2006/feac22b2da24f7d54737f04bef93b103_apres.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/feac22b2da24f7d54737f04bef93b103_apres.pdf
 file_size: 2949288
 file_type: application/pdf
 learning_resource_types:
