@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This topic includes design concept and  illustrative sketch plan.
-file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/9b9f07b872ee7e5218d048d106f59c4f_assn2.pdf
+file: /courses/11-307-beijing-urban-design-studio-summer-2006/9b9f07b872ee7e5218d048d106f59c4f_assn2.pdf
 file_size: 28142
 file_type: application/pdf
 learning_resource_types:
