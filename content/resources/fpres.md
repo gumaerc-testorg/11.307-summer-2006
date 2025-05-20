@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes city Yet-to-be Urbanized, forbidden city, Mixed-Use
   Wedge, master plan, land use, public space and circulation.
-file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/ae6a9921e834e147c1ee1cd321b3107d_fpres.pdf
+file: /courses/11-307-beijing-urban-design-studio-summer-2006/ae6a9921e834e147c1ee1cd321b3107d_fpres.pdf
 file_size: 5309315
 file_type: application/pdf
 learning_resource_types:
