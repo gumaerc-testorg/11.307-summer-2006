@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes approach, principles for reweaving, concept, site
   plan, housing and transit oriented development.
-file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/f48240ef594f48a13584c88cdd55b016_cpres.pdf
+file: /courses/11-307-beijing-urban-design-studio-summer-2006/f48240ef594f48a13584c88cdd55b016_cpres.pdf
 file_size: 2536851
 file_type: application/pdf
 learning_resource_types:

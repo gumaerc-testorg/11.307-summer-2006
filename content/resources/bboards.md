@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes site analysis, abstract and design strategies.
-file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/5e43ed6a8d0e46a913006d715a1a1c09_bboards.pdf
+file: /courses/11-307-beijing-urban-design-studio-summer-2006/5e43ed6a8d0e46a913006d715a1a1c09_bboards.pdf
 file_size: 8525732
 file_type: application/pdf
 learning_resource_types:
