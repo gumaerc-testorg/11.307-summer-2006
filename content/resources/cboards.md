@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes program, phasing, reweave housing, reweave streets
   and reweave livelihoods.
-file: /courses/11-307-beijing-urban-design-studio-summer-2006/ea1901864e5685f97ca2abd10d316767_cboards.pdf
+file: /ol-ocw-studio-app/courses/11-307-beijing-urban-design-studio-summer-2006/ea1901864e5685f97ca2abd10d316767_cboards.pdf
 file_size: 1332608
 file_type: application/pdf
 learning_resource_types:
